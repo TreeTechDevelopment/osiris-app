@@ -1,7 +1,7 @@
 {
   "name": "osiris",
   "displayName": "osiris",
-  "url": "https://osiris.lol",
+  "url": "https://osiris-test.herokuapp.com",
   "messageServerError": "Ha sucedido un error en el servidor. Intentalo más tarde.",
   "messageTokenError": "Ha sucedido un error intentado obtener el token de usuario. Reinicia la aplicación.",
   "messageDocsError": "Ha sucedido un error intentado obtener los documentos. Reinicia la aplicación",
